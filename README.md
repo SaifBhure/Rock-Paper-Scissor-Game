@@ -19,5 +19,5 @@ The game allows players to choose either rock, paper, or scissors and then displ
 - JavaScript
 
 ## Screenshots
-
+demo.png
 
